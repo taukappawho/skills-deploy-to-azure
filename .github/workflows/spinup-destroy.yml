@@ -13,7 +13,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   AZURE_WEBAPP_NAME: naurotj-ttt-app
-
+    
 jobs:
   setup-up-azure-resources:
     runs-on: ubuntu-latest
